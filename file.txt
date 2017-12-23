@@ -1,0 +1,2 @@
+berna altinel:cse100,cse300,cse400
+harun buyuktepe:cse225,cse344,cse363
